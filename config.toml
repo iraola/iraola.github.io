@@ -1,4 +1,4 @@
 baseURL = 'https://iraola.github.io'
 languageCode = 'en-us'
 title = 'This is a personal site'
-theme = 'ananke'
+theme = 'hyde'
