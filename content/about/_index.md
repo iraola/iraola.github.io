@@ -19,15 +19,16 @@ socials:
     google_scholar: "citations?user=d05hhfEAAAAJ&hl=es&oi=ao"
 
 interests:
-    - Data Intensive Systems
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Time Series
+    - Anomaly Detection
+    - System Identification
+    - Reinforcement Learning
+    - Forecasting
 
 affiliations:
     - affiliation:
         title: "Research Engineer"
-        name: "Inprocess Technology and Consulting group"
+        name: "Inprocess Technology and Consulting Group"
         # email: "email@cs.stanford.edu"
     - affiliation:
         title: "Ph.D. candidate"
@@ -36,11 +37,16 @@ affiliations:
 
 academia:
     - course:
+        degree: "Visiting Researcher at the"
+        institution:  "Imperial College London"
+        major: "Optimisation and Machine Learning for Process Systems Engineering Group"
+        start_date: "2022"
+    - course:
         degree: "Ph.D."
         institution:  "Universitat Politècnica de Catalunya"
         major: "Nuclear Engineering"
         start_date: "2019"
-        other_info: "applying machine learning to Nuclear and Process Engineering"
+        other_info: "Applying machine learning to Nuclear and Process Engineering"
     - course:
         degree: "M.Sc."
         institution: 'Universitat Politècnica de Catalunya'
@@ -56,5 +62,3 @@ academia:
         start_date: '2012'
         end_date: '2016'
 ---
-
-Machine learning researcher with an applied engineering background. I am passionate about learning and good practices in programming, including PEP 8 and doing version control.
