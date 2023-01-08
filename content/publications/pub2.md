@@ -1,15 +1,15 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Liquid metal MHD flow influence on heat transfer phenomena in fusion reactor blankets"
 authors:
-- Your Full Name
-- Author Name
-date: "2016-09-01"
+- D. Suarez
+- E. Iraola
+- C. Lampón
+- E. Mas de les Valls
+- L. Batet
+date: "2021-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "Fusion Engineering and Design"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://doi.org/10.1016/j.fusengdes.2021.112503
 ---

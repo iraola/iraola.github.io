@@ -1,17 +1,21 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "The solubility of helium in lead–lithium eutectic alloy"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- L. Sedano
+- G. A. Esteban
+- M. Cavaro
+- E. Iraola
+- A. Abdulrahman
+- L. Batet
+- M. Guasch
+date: "2022-06-01"
 
-publication: "Journal of Machine Learning"
+publication: "Nuclear Materials and Energy"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://doi.org/10.1016/j.nme.2022.101185
+#    code: https://github.com/hadisinaee/avicenna
+#    slides: https://github.com/hadisinaee/avicenna
+#    video: https://github.com/hadisinaee/avicenna
 
 ---
-
