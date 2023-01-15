@@ -14,8 +14,5 @@ publication: "Nuclear Materials and Energy"
 
 links:
     pdf: https://doi.org/10.1016/j.nme.2022.101185
-#    code: https://github.com/hadisinaee/avicenna
-#    slides: https://github.com/hadisinaee/avicenna
-#    video: https://github.com/hadisinaee/avicenna
 
 ---
