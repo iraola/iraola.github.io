@@ -5,7 +5,7 @@ body {
 }
 
 a {
-    color: #8C1515;
+    color: #01257D;
 }
 
 a:hover {
@@ -16,7 +16,7 @@ a:hover {
 h2 code {
   font-family: Consolas,"courier new";
   /* background-color: #f1f1f1; */
-  background-color:  #8C1515;;
+  background-color:  #01257D;
   color: white;
   padding: 2px;
 }
@@ -48,7 +48,7 @@ h2 code {
 }
 
 .main_color  {
-    color: #8C1515;
+    color: #01257D;
 }
 
 .secondary_color {
@@ -171,7 +171,7 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 50%;
-    background-color: #d64933;
+    background-color: #00FFFF;
     color: white;
 }
 
@@ -215,18 +215,18 @@ h2 code {
 }
 
 .pagination a  {
-    color: #8C1515;
+    color: #01257D;
     size: 100%;
 }
 
 .pagination .page_link  {
     font-weight: bold;
-    background-color: #8C1515;
+    background-color: #01257D;
 }
 
 .page-item.active .page-link {
     border-color: black;
-    background-color: #8C1515;
+    background-color: #01257D;
     font-weight: bold;
     color: white;
 }
@@ -238,7 +238,7 @@ h2 code {
 .tags_navigation .tag {
     font-family: 'Ubuntu Mono', serif;
     padding: .15%;
-    background-color: #8C1515;
+    background-color: #01257D;
     color: aliceblue;
     padding-left: .5%;
     padding-right: .5%;
@@ -256,7 +256,7 @@ h2 code {
 .blog_nav_bar .item {
     font-family: 'Ubuntu Mono', serif;
     padding: .15%;
-    background-color: #8C1515;
+    background-color: #01257D;
     color: aliceblue;
     padding-left: .5%;
     padding-right: .5%;
