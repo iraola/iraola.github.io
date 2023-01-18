@@ -18,12 +18,26 @@ socials:
     # twitch: "YOUR_NAME"
     google_scholar: "citations?user=d05hhfEAAAAJ&hl=es&oi=ao"
 
-interests:
-    - Time Series
-    - Anomaly Detection
-    - System Identification
-    - Reinforcement Learning
-    - Forecasting
+work:
+  - course:
+      institution: "Inprocess Technology and Consulting Group"
+      degree:  "Research Machine Learning Engineer"
+      major: ""
+      start_date: "2019"
+  - course:
+      institution: "Center for the Design of Industrial Equipment (CDEI)"
+      degree:  "Automation Engineer"
+      major: ""
+      start_date: "2018"
+      end_date: '2019'
+      other_info: ""
+  - course:
+      institution: "Center for Technological Innovation in Static Converters (CITCEA)"
+      degree: 'Electrical Engineering Research Fellowship'
+      major: ''
+      start_date: '2017'
+      end_date: '2018'
+      minor: ''
 
 affiliations:
     - affiliation:
@@ -37,9 +51,9 @@ affiliations:
 
 academia:
     - course:
-        degree: "Visiting Researcher at the"
+        degree: "Visiting Researcher"
         institution:  "Imperial College London"
-        major: "Optimisation and Machine Learning for Process Systems Engineering Group"
+        other_info: "Optimisation and Machine Learning for Process Systems Engineering Group"
         start_date: "2022"
     - course:
         degree: "Ph.D."
