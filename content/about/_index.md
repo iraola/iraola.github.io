@@ -20,16 +20,22 @@ socials:
 
 work:
   - course:
+      institution: "Barcelona Supercomputing Center"
+      degree:  "Recognised Researcher"
+      major: "Workflows and Distributed Computing"
+      start_date: "2023"
+  - course:
       institution: "Inprocess Technology and Consulting Group"
       degree:  "Research Machine Learning Engineer"
       major: ""
       start_date: "2019"
+      end_date: "2023"
   - course:
       institution: "Center for the Design of Industrial Equipment (CDEI)"
       degree:  "Automation Engineer"
       major: ""
       start_date: "2018"
-      end_date: '2019'
+      end_date: "2019"
       other_info: ""
   - course:
       institution: "Center for Technological Innovation in Static Converters (CITCEA)"
@@ -41,8 +47,8 @@ work:
 
 affiliations:
     - affiliation:
-        title: "Research Engineer"
-        name: "Inprocess Technology and Consulting Group"
+        title: "Recognised Researcher"
+        name: "Barcelona Supercomputing Center"
         # email: "email@cs.stanford.edu"
     - affiliation:
         title: "Ph.D. candidate"
@@ -51,7 +57,7 @@ affiliations:
 
 academia:
     - course:
-        degree: "Visiting Researcher"
+        degree: "Academic Visitor"
         institution:  "Imperial College London"
         other_info: "Optimisation and Machine Learning for Process Systems Engineering Group"
         start_date: "2022"
@@ -77,6 +83,4 @@ academia:
         end_date: '2016'
 ---
 
-I am a researcher with an interdisciplinary engineering background and a passion for artificial intelligence and coding. My primary focus is on using machine learning to analyze time series data to generate digital twin insights that help us understand the state of a system and predict any potential issues.
-
-I am also into Physics and love to explore the latest research in the field. When I'm not working, you'll find me playing rock and metal on my drum set or hitting up the bouldering gym. I am always looking for new challenges to tackle and ways to push myself both personally and professionally.
+I am a researcher with an interdisciplinary engineering background and a passion for artificial intelligence and coding. My primary focus is on using machine learning to analyze time series data for digital twin tools and insights that help us understand the state of a system and predict any potential issues.
