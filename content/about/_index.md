@@ -22,7 +22,8 @@ work:
   - course:
       institution: "Barcelona Supercomputing Center"
       degree:  "Recognised Researcher"
-      major: "Workflows and Distributed Computing"
+      major: ""
+      other_info: "Workflows and Distributed Computing Group"
       start_date: "2023"
   - course:
       institution: "Inprocess Technology and Consulting Group"
@@ -50,10 +51,6 @@ affiliations:
         title: "Recognised Researcher"
         name: "Barcelona Supercomputing Center"
         # email: "email@cs.stanford.edu"
-    - affiliation:
-        title: "Ph.D. candidate"
-        name: "Universitat Politècnica de Catalunya"
-        # email: "email@mycoolstartup.ai"
 
 academia:
     - course:
